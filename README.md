@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, tú eres mi dulce tentación en la oscuridad
+> Tus ojos me llaman, me piden exclusividad
+> Bailando en la disco, robándote la gravedad
+> Esta noche es nuestra, no importa la realidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
