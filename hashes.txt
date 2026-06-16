@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tentación
+
+This log tracks the cryptographic history and versioning for the song **Dulce tentación** (dulce-tentacion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:21:39.366036 | `v1` | `7451ebfebda2faf51d814fef13871627d16f035603ea6255acec16dcb60e531f` | `2622efd688f2e42b3a33a1aead5976fc6f8c8e03f7c2c9a4e99d065ce6a6c5a2` | `2026-06-16_dulce-tentacion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
